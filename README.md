@@ -71,7 +71,7 @@ for link in links:
 
 ## Full Example
 
-([Combining all the steps, here is the complete script. It’s like the big reveal at the end of a mystery novel])
+[Combining all the steps, here is the complete script. It’s like the big reveal at the end of a mystery novel](https://github.com/emmanuelj-unit/Web-Scraping/blob/main/001%20webscraping.py)
 
 ## Conclusion
 
